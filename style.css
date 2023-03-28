@@ -1,0 +1,32 @@
+body{
+    background:white;
+    background-image:url(https://wallpapercave.com/wp/VmZHnTO.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:600px;
+    color:white;
+}
+h2{
+    padding: 10px;
+    text-align: center;
+    margin: 0;
+}
+li{
+    font-size:20px;
+    margin:8px;
+}
+label{
+    cursor: pointer;
+}
+#submit{
+    background-color:white;
+    color:black;
+    padding:10px;
+    border-radius:10%;
+    border-width:3px;
+    border-color: #0566f7;
+    display:block ;
+    width:100px;
+    cursor:pointer;
+}
